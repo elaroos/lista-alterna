@@ -8,107 +8,107 @@ http://dalive.site:8080/RESTREAMCRUEL/T7464747/3787
 http://dalive.site:8080/RESTREAMCRUEL/T7464747/446460
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://painel.binstream.me/lgs_btv/venus.png",Venus
 http://dalive.site:8080/RESTREAMCRUEL/T7464747/3794
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-id="amc.mx",AMC
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TndLRnRxZVNOVW94aHVuNVlsQjNqVT0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-id="axn.mx",AXN
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RVprS21NTGgrSjhJc3QrNnlEN3pnOD0
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RmRNVWFzWTloK0c0N3R3OTNuNXVNWT0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",Animal Planet
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-id="animalplanet.mx",Animal Planet
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5R2RXOHJrck9Lam41Vmx2ZERGYXVWWT0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/copIbc9.png",BET
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/copIbc9.png" tvg-id="bet.mx",BET
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5UG84V241bHRtR0t2UkE2N1RabFkyUT0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/WxLHBwu.png",Baby First
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/WxLHBwu.png" tvg-id="babyfirst.mx",Baby First
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TkxvZ2lDQlZGQVhNZTRmckFSZ0JXdz0
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",Boomerang
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SHhjTXUwaW1WU3B0ZXZMYTA5RzVWdz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png",CNN
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png" tvg-id="cnn.mx",CNN
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QnhmRnIxTlM4Q2VkU1RWNmJXN1o2TT0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/t4EXijz.png",CNN Chile
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/t4EXijz.png" tvg-id="cnnchile.cl",CNN Chile
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RHN2Sm44bVJ1bEU1OHhSQ3V6Y3FEZz0
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN en EspaÃ±ol
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RERGWjBRRS9MYUZyZVlGS2ZERlVnOD0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-id="cartoonnetwork.mx",Cartoon Network
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RHpia0dMclg3QlZuTGtGMXJMRFdkYz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" tvg-id="cinecanal.mx",Cinecanal
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SStjSTBlenJYeXorVVFEazBlL3MwOD0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",Cinemax
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" tvg-id="cinemax.mx",Cinemax
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5UHI5NUIyRWNuMXEvUW1NVXRBeEdxRT0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png",Comedy Central
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" tvg-id="comedycentral.mx",Comedy Central
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SkZheDF0SW03VmdzdFl3TmZETlVqYz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",Discovery Channel
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" tvg-id="discoverychannel.mx",Discovery Channel
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RDMxTFFneHp5bnY4SU4xcm9URzd0WT0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png",Discovery H&H
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png" tvg-id="discoveryh&h.mx",Discovery H&H
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5R2l6cmVNenpqNGVSY1ZEVDhYMlh1az0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",Discovery ID
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-id="discoveryid.mx",Discovery ID
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5UHozQkNtWkxTRnBsKzVvd04vVGt6TT0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/C0VEHXU.png",Discovery Kids
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/C0VEHXU.png" tvg-id="discoverykids.mx",Discovery Kids
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QTBJa1dpUDZla1NicVFMdDFyN29Vaz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png",Discovery Science
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" tvg-id="discoveryscience.mx",Discovery Science
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RCsvYUgvRmN0bjhkd1l0dk9aZjgvQT0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/AqR0Jkn.png",Discovery Theater
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/AqR0Jkn.png" tvg-id="discoverytheater.mx",Discovery Theater
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RmRqbjY5RTlzRTkzYVFGT051OWhSOD0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png",Discovery Turbo
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png" tvg-id="discoveryturbo.mx",Discovery Turbo
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SVNUa3E1MzhBMjhESFUraE51ZlM0RT0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/yNFmUkE.png",Discovery World
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/yNFmUkE.png" tvg-id="discoveryworld.mx",Discovery World
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TmFrYkdXWWlmOG94amlTa0NVVlNiMD0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",Disney Channel
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png" tvg-id="disneychannel.mx",Disney Channel
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SmJEaVJ2UGhJTkVpd0hFNUNzNmNXYz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",Disney Jr
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" tvg-id="disneyjr.mx",Disney Jr
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RitDYkN2ZG9VbXhQenA1TFBWcHRZYz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png",Disney XD
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" tvg-id="disneyxd.mx",Disney XD
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RUlTUDA5S0Q3dlpmbldhaUVWbmZTUT0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/TWFDkap.png",E!
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/TWFDkap.png" tvg-id="eentertainment.mx",E!
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5THhTc1VzTExmSjFGc3FMZ0dCMklUaz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",ESPN
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-id="espn.mx",ESPN
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TlcrRi80NGF5WXpkcG56cVpkeDVQbz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/ZScwrpi.png",FX
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/ZScwrpi.png" tvg-id="fx.mx",FX
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TDBERjM0WDNRaDhpdlhEU29rWGNsQT0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",Fox Sports
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" tvg-id="foxsports.mx",Fox Sports
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5R09kQzYyRmtRYXlVQ3JERkx6SEVxRT0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",HBO (FHD)
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" tvg-id="hbo.mx",HBO (FHD)
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QlVkanNtdXg3QlRYR1B5SVdkeWVuQT0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png",HBO Pop
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png" tvg-id="hbopop.mx",HBO Pop
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TDNTUm9seGxEb1NHazFvOUtKbHplbz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",History
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-id="history.mx",History
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TkZoL0xSYlNra09BTEI3ZjBzUU5GYz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",History 2
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-id="history2.mx",History 2
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Qzg0K1gxZUo2MjQxSURqcDg0QXBsVT0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",Lifetime
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" tvg-id="lifetime.mx",Lifetime
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RjJkOS9qUlVweVczTmkxZWtMVG4rND0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",MTV
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-id="mtv.mx",MTV
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RkJkUWZLVXhBS1E2a3kyNi9lNC9sdz0
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",Nat Geo
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RVkydm5qRXl4MjNjNGp3TWQvdk4rZz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/E84jnP8.png",Nick
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-id="nick.mx",Nick
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QmVRWWpabk8yQmxLVWtOMmJnM3dZbz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/KT4tdQs.png",Nick Jr
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/KT4tdQs.png" tvg-id="nickjr.mx",Nick Jr
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TEp0ek1ici93dncrWXVVYUQzdGx3cz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-id="nickelodeon.mx",Nickelodeon
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SnpucnJUNFNPSEdqNUFHQlBEU1Btbz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",Paramount Channel
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" tvg-id="paramountchannel.mx",Paramount Channel
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TG9xQ0ZkTlRlNFFWN2pZMFZJWk15WT0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",Sony Channel
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" tvg-id="sonychannel.mx",Sony Channel
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5R0wyK2I5RXM3cFdNeVQzazJ3K3hGbz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" tvg-id="space.mx",Space
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SVVYWnNPM21PWlRuRmd3ekJJam52cz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",Star Channel
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-id="starchannel.mx",Star Channel
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RTZ5YlNsV1c2clNmL2xFaWhCSU9CVT0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png",TCM
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png" tvg-id="tcm.mx",TCM
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SXJxZUd4dSsxd3NJbndZVmV0ZXZ1Yz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",TLC
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" tvg-id="tlc.mx",TLC
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5T1MzSVBNUTZ2a3hIY2RBMmtLQWtPbz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT (FHD)
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" tvg-id="tnt.mx",TNT (FHD)
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QnhwT2FUSEJrc1JZZjNoZkMzZDZYTT0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" tvg-id="tntseries.mx",TNT Series
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5UDNBZEE1d1Nxa3M5ZlRxTHRNc1E2MD0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/3FKZHL4.png",TVN
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/3FKZHL4.png" tvg-id="tvn.cl",TVN
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?uid=qWppypQNFPspM2RhBXQHDxIrshXs6CtX&sid=R41Vnx3bHX8JCIjEWDgvpqdfjamuJer2&pid=jmrYPCB70lKXMTodqgZzdRsQetxU1Rji&an=tvn-play-app-lg-tv&at=web-app&av=v6.0.52&ref=https%3A%2F%2Fwww.tvn.cl%2Fen-vivo&res=347x220&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=68708b47-fa1a-44db-b2a0-744920cb38ac:SCL
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png",Universal Channel
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" tvg-id="universalchannel.mx",Universal Channel
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SnpoWnlJeXNteFdMOEhscjJVcFhIYz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",VH1
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png" tvg-id="vh1.mx",VH1
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5S2ZiNnU3d3plZEVpSU50MTJkK05qZz0
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png",Warner Channel
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png" tvg-id="warnerchannel.mx",Warner Channel
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5UEZkdE93V3FyVWVhYlRXTVo2RFNpTT0
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png",truTV
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q0VERnZMRjJzRHRZQ1VUK3pEQ3Jtdz0
