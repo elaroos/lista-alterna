@@ -2,6 +2,12 @@
 #PLAYLIST: Xtream IPTV - Dalive.site
 # Generated 2026-07-10
 
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://painel.binstream.me/lgs_btv/playboytv.png",Playboy TV HD
+http://dalive.site:8080/RESTREAMCRUEL/T7464747/3787
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.postimg.cc/pTkykn74/file-000000007610720ea97af1ee84e1a008.png",Playboy
+http://dalive.site:8080/RESTREAMCRUEL/T7464747/446460
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://painel.binstream.me/lgs_btv/venus.png",Venus
+http://dalive.site:8080/RESTREAMCRUEL/T7464747/3794
 #EXTINF:-1 group-title="IPTV" tvg-id="amc.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC
 http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TndLRnRxZVNOVW94aHVuNVlsQjNqVT0
 #EXTINF:-1 group-title="IPTV" tvg-id="axn.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN
